@@ -20,9 +20,8 @@ Um jovem de 19 anos que tem como objetivo se tornar um dev backend, apesar de ta
 # Minhas contribuições
 Apesar de estar no começo, já contribui em um projeto:
 
-## Space Shooter!  
-![Scratch Badge](https://img.shields.io/badge/Scratch-%23F4C20F?style=for-the-badge&logo=scratch&logoColor=white)
+## Space Shooter 
 
 Projeto de um jogo utilizando Scratch, com a intenção de apresentar o laboratório de informática do meu ensino médio, o [Instituto Embraer Juarez Wanderley](https://g.co/kgs/A9k61jv). Certificado presente no meu [LinkedIn](https://www.linkedin.com/in/breno-porto-pinheiro-do-prado/).
 
-["Space Shooter!"](https://scratch.mit.edu/projects/667952127)
+![Scratch Badge](https://img.shields.io/badge/Scratch-%23F4C20F?style=for-the-badge&logo=scratch&logoColor=white)   ["Space Shooter!"](https://scratch.mit.edu/projects/667952127)
