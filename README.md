@@ -17,6 +17,7 @@
 ![Inglês](https://img.shields.io/badge/Ingl%C3%AAs-%23FFFFFF?style=for-the-badge&logo=usa&logoColor=white&color=blue)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 # Conecte-se comigo
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pratooow/) 
