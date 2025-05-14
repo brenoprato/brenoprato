@@ -1,5 +1,11 @@
 # Prazer!! Eu sou o Breno!!
-Um jovem de 19 anos que tem como objetivo se tornar um dev backend, apesar de também se interessar pelo frontend. Ademais, sou apaixonado por tecnologia e estudante de Engenharia da Computação na Univesp. Minha paixão começou aos 6 anos, quando joguei no PS2 pela primeira vez. Desde então, mergulhei no mundo dos games e da programação. Além de tecnologia, adoro praticar esportes, especialmente futebol e basquete. E isso é um pouco sobre mim!
+🎓 Estudante de Ciência e Tecnologia na UNIFESP, com planos de seguir para Engenharia da Computação. Tenho 19 anos e sou apaixonado por tecnologia desde a infância — tudo começou com um PS2 aos 6 anos, e desde então nunca mais parei de explorar o mundo digital.
+
+💻 Meu foco é me tornar um desenvolvedor backend, mas também tenho interesse pelo frontend e gosto de entender o funcionamento completo das aplicações. Gosto de aprender, resolver problemas e construir soluções que realmente façam a diferença.
+
+🚀 Já desenvolvi projetos como jogos educativos no Scratch e estou sempre buscando aprender mais através de cursos, desafios e experiências práticas.
+
+⚽ Fora do código, sou fã de esportes — especialmente futebol e basquete — e acredito que trabalho em equipe, disciplina e persistência são valores que levo para todas as áreas da vida.
 
 # Habilidades
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
