@@ -1,5 +1,5 @@
 # Prazer!! Eu sou o Breno!!
-🎓 Estudante de Ciência e Tecnologia na UNIFESP, com planos de seguir para Ciência da Computação. Tenho 20 anos e sou apaixonado por tecnologia desde a infância — tudo começou com um PS2 aos 6 anos, e desde então nunca mais parei de explorar o mundo digital.
+🎓 Estudante de Ciência e Tecnologia na UNIFESP, com planos de seguir para Engenharia da Computação. Tenho 20 anos e sou apaixonado por tecnologia desde a infância — tudo começou com um PS2 aos 6 anos, e desde então nunca mais parei de explorar o mundo digital.
 
 💻 Meu foco é me tornar um desenvolvedor backend, mas também tenho interesse pelo frontend e gosto de entender o funcionamento completo das aplicações. Gosto de aprender, resolver problemas e construir soluções que realmente façam a diferença.
 
